@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Haaris
 
-<!--
-**haaris-farooq/haaris-farooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Warwick and an aspiring Software Engineer with broad interests across systems, infrastructure, and AI.
 
-Here are some ideas to get you started:
+---
+## 💼 Work Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Technology Intern** – *Marshall Wace*, *June - August 2025*
+- **Software Engineer Intern** – *Arm*, *July - September 2024*
+---
+
+## 🚧 Currently Working On / Want to Build
+
+These are either in progress or waiting to happen:
+
+- **KruskalDB** - Graph Database in C++
+- **Kernel Bypass Network Stack with AF_XDP**
+- **Pre-Emptive Memory Tiering Agent** - Self-tuning Linux agent that uses DAMON to migrate cold memory pages to slower tiers like zswap or CXL
+- **Brain Games** - Website dedicated to games/puzzles useful for cognitive training
+- **Genius** - Generalized Deep Learning Self Play Agent for Board Games
+---
+
+## ✅ Completed Projects
+
+A few things I’ve finished working on:
+
+- [HaDo Library](https://github.com/hado-library/HaDoLibrary)  – Neural Network Library in C++ (collaborative project)
+- [HTTP Server](https://github.com/haaris-farooq/http_server_c) – Multi Threaded HTTP Server written in C
+
+---
+
+## 🎯 Interests
+
+**Tech:**   
+- Linux, HPC, Networking, Low-Level Systems
+- C, C++, Rust, Python
+- Neural Networks, Unsupervised Learning
+
+**Non-tech:**  
+Outside of Computer Science:  
+- Pre-Colonial World History
+- Cognitive Testing/Training
+- Poker
+---
+
+## 📫 Find Me
+
+- [LinkedIn](https://www.linkedin.com/in/haaris-farooq)
+- Email: haarisfarooq@gmail.com
