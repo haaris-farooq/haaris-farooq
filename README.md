@@ -5,8 +5,8 @@ I'm a Computer Science student at the University of Warwick and an aspiring Soft
 ---
 ## 💼 Work Experience
 
-- **Technology Intern** – *Marshall Wace*, *June - August 2025*
-- **Software Engineer Intern** – *Arm*, *July - September 2024*
+- **Technology Intern** – Marshall Wace, *June - August 2025*
+- **Software Engineer Intern** – Arm, *July - September 2024*
 ---
 
 ## 🚧 Currently Working On / Want to Build
