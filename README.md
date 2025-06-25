@@ -15,7 +15,7 @@ These are either in progress or waiting to happen:
 
 - **KruskalDB** - Graph Database in C++
 - **Kernel Bypass Network Stack with AF_XDP**
-- **Pre-Emptive Memory Tiering Agent** - Self-tuning Linux agent that uses DAMON to migrate cold memory pages to slower tiers like zswap or CXL
+- **Pre-Emptive Memory Tiering Agent** - Self-tuning Linux agent that uses DAMON to migrate cold memory pages to slower memory tiers
 - **Brain Games** - Website dedicated to games/puzzles useful for cognitive training
 - **Genius** - Generalized Deep Learning Self Play Agent for Board Games
 ---
